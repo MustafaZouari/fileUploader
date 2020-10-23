@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+lib-cov
+
+coverage
+
+.grunt
+
+.lock-wscript
+
+build/Release
+
+
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+.DS_Store
+
+.env
